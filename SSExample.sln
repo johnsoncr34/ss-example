@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSExample", "SSExample\SSExample.csproj", "{425B64A1-B3F2-4159-A1AA-C304D673FB56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSClient", "SSClient\SSClient.csproj", "{8D5DF17D-FFAE-4E91-BF25-DB0CC8531A55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{425B64A1-B3F2-4159-A1AA-C304D673FB56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{425B64A1-B3F2-4159-A1AA-C304D673FB56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{425B64A1-B3F2-4159-A1AA-C304D673FB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{425B64A1-B3F2-4159-A1AA-C304D673FB56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D5DF17D-FFAE-4E91-BF25-DB0CC8531A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D5DF17D-FFAE-4E91-BF25-DB0CC8531A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D5DF17D-FFAE-4E91-BF25-DB0CC8531A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D5DF17D-FFAE-4E91-BF25-DB0CC8531A55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3939150A-0359-4B65-AF26-8E32F448D6E0}
+	EndGlobalSection
+EndGlobal
